@@ -1,12 +1,11 @@
 <h1 align="center">Projetos de Estudo com JS</h1>
-<p align="center">Coleção de pequenos projetos construídos com HTML, CSS e JavaScript</p>
-<br>
+<p align="center">Coleção de pequenos projetos construídos com HTML, CSS e JavaScript</p> <br>
 
 
 ##  Introdução 🔥
-O objetivo de repositório é colocar em prática os conteúdo do JS e auxiliar no aprendizado da ferramenta.
-<br>
+O objetivo de repositório é colocar em prática os conteúdo do JS e auxiliar no aprendizado da ferramenta. <br>
 
+<r>
 
 ##  Tecnologias usadas 📦
 - ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
