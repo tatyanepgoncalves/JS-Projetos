@@ -1,4 +1,4 @@
-<h1 align="center">Projetos de Es tudo com JS</h1>
+<h1 align="center">Projetos de Estudo com JS</h1>
 Coleção de pequenos projetos construídos com HTML, CSS e JavaScript
 
 ## 🔥 Introdução
